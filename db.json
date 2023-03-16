@@ -1,7 +1,12 @@
 {
   "users":[
     {
-      
+      "id":1,
+      "username":"abc",
+      "email2":"abc@gmail.com",
+      "password2":"1234"
+
+
     }
   ],
   "hotels": [
